@@ -1,0 +1,52 @@
+Data Types on Python
+
+
+Built-in Data Types
+
+Primitive Data Types
+Primitive data types are basic data types that are built into the language and are used to represent simple values. 
+They are the basic building blocks of data in Python, and they form the foundation of more complex data structures and objects.
+
+Here are the main primitive data types in Python:
+
+- Integer (int): Represents whole numbers.
+Integers (int): Integers represent whole numbers, positive or negative, without any decimal point. For example: 5, -10, 1000.
+
+- Float (float): Represents decimal numbers.
+Floating-point numbers (float): Floating-point numbers represent real numbers and are written with a decimal point. For example: 3.14, -0.001, 2.71828.
+- Complex numbers (complex): Complex numbers are represented as a + bj, where a and b are floating-point numbers and j is the imaginary unit. For example: 3 + 4j, 1.5 - 2.5j.
+
+- String (str): Represents a sequence of characters.
+Strings (str): Strings are sequences of characters enclosed within single quotes ' ' or double quotes " ". For example: 'Hello', "Python", '123'.
+
+- Boolean (bool): Represents either True or False.
+Boolean (bool): Booleans represent truth values and can only be one of two values: True or False. Booleans are often used in conditional statements and expressions.
+
+- NoneType (None): None is a special type in Python that represents the absence of a value. It is often used as a placeholder or to signify that a variable has no value assigned to it.
+
+
+
+None-Primitive Data Types
+
+Non-primitive data types are more complex data structures built using primitive data types. 
+These data types can hold multiple values and are mutable, meaning their values can be changed after they are created.
+Here are some commonly used non-primitive data types in Python:
+
+- Lists (list): Lists are ordered collections of items. 
+They can contain elements of different data types and are mutable, meaning you can change, add, and remove elements from them. Lists are defined using square brackets [].
+
+- Dictionary: Represents a collection of key-value pairs.
+
+- Set: Represents an unordered collection of unique items.
+
+- None: Represents the absence of a value.
+
+- Range: Represents a sequence of numbers.
+
+- Bytes: Represents a sequence of bytes.
+
+- Bytearray: Represents a mutable sequence of bytes.
+
+- Complex: Represents complex numbers.
+
+- Frozenset: Represents an immutable set.

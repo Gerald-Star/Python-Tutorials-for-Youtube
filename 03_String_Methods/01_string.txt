@@ -1,0 +1,30 @@
+
+# What is string in Python?
+
+# A string is a sequence of characters enclosed within single or double quotes.
+
+# Strings are immutable, meaning their values cannot be changed after creation.
+
+# Strings can be indexed and sliced like lists.
+
+# Strings can be concatenated using the + operator.
+
+# Strings can be repeated using the * operator.
+
+# Strings can be formatted using the format() method.
+
+# Strings can be compared using the comparison operators.
+
+# Strings have many built-in methods for manipulation.
+
+# Strings can be converted to uppercase or lowercase using the upper() and lower() methods.
+
+# Strings can be split into a list of substrings using the split() method.
+
+# Strings can be joined from a list of substrings using the join() method.
+
+# Strings can be stripped of leading and trailing whitespace using the strip() method.
+
+# Strings can be replaced using the replace() method.
+
+# Strings can be created using single quotes ('), double quotes ("), or triple quotes (""").
