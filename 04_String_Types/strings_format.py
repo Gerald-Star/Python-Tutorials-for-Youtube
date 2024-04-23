@@ -95,3 +95,16 @@ print(number_strings2)
 
 number_strings3 = f"The price is {20 * 10:.2f} dollars."
 print(number_strings3)
+
+print()
+
+student1 = "My name is {fname}, I 'm {age} years old".format(fname = "Alice", age = 25)
+print(student1)
+
+print()
+student2 = "My name is {0}, I 'm {1} years old".format("Alice", 25)
+print(student2)
+
+print()
+student3 = "My name is {}, I 'm {} years old".format("Alice", 25)
+print(student3)
