@@ -142,7 +142,9 @@ print(bool(["apple", "banana", "cherry"]))  # Output: True
 # And of course the value False evaluates to False.
 
 print()
+
 print(bool(False))  # Output: False
+print(bool(None))  # Output: False
 print(bool(None))  # Output: False
 print(bool(0))  # Output: False
 print(bool(""))  # Output: False

@@ -1,0 +1,15 @@
+
+#? Python Lists
+# Python lists are used to store multiple items in a single variable.
+# Lists are created using square brackets [].
+# The items in a list are separated by commas.
+# Lists are ordered, changeable, and allow duplicate values.
+# List items are indexed, the first item has index [0], the second item has index [1], and so on.
+# Lists can contain different data types.
+# Lists can contain duplicate values.
+# Lists can be nested inside other lists.
+# Lists are mutable, meaning their elements can be changed after creation.
+# Lists are dynamic, meaning you can add, remove, or change items in a list after it has been created.
+# Lists are versatile and can be used for many different purposes.
+# Lists are used to store multiple items in a single variable.
+# Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
