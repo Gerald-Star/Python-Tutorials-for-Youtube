@@ -1,0 +1,96 @@
+
+
+# A function is a block of code which only runs when it is called.
+# You can pass data, known as parameters, into a function.
+
+# The def keyword is used to define a function in Python
+
+# A function can return data as a result.
+
+# USE CASES FOR FUNCTIONS
+
+# Use a function when you have a block of code that you want to reuse.
+# Use a function when you want to pass data into a block of code.
+# Use a function when you want to return data from a block of code.
+# Use a function when you want to organize your code into smaller blocks.
+# Use a function when you want to make your code more readable.
+# Use a function when you want to make your code more maintainable.
+
+# Syntax
+# def function_name(parameters):
+#     # code block
+#     # code block
+#     # code block
+#     return value
+
+
+# The function_name is the name of the function.
+# The parameters are the values passed into the function.
+# The code block inside the function is executed when the function is called.
+# The return keyword is used to return a value from the function.
+# The value is the data returned from the function.
+
+
+# Arguments
+
+
+# You can pass a list as an argument into a function.
+# You can pass a dictionary as an argument into a function.
+# You can pass a tuple as an argument into a function.
+# You can pass a set as an argument into a function.
+
+# Information can be passed into functions as arguments.
+# Arguments are specified after the function name, inside the parentheses.
+# You can add as many arguments as you want, just separate them with a comma.
+# The arguments are passed into the function when the function is called.
+# You can use the arguments as variables inside the function.
+
+# Syntax
+# def function_name(parameter1, parameter2):
+#     # code block
+#     # code block
+#     # code block
+#     return value
+
+
+# The parameter1 and parameter2 are the arguments passed into the function.
+# The arguments are used as variables inside the function.
+# The arguments are specified inside the parentheses after the function name.
+
+
+#? Difference between a function definition and a function call
+# A function definition is a block of code that defines what the function does.
+# A function call is when you execute the code block inside the function.
+
+# A function definition is created using the def keyword followed by the function name and parentheses.
+# A function call is made by using the function name followed by parentheses.
+
+
+#? Function Parameters
+# Parameters are variables that are used to pass values into a function.
+# Parameters are specified inside the parentheses after the function name.
+# You can pass multiple parameters into a function by separating them with commas.
+# You can pass a list as a parameter into a function.
+
+
+#? Function Arguments
+# Arguments are the values that are passed into a function when it is called.
+# Arguments are specified inside the parentheses when calling a function.
+# You can pass multiple arguments into a function by separating them with commas.
+# You can pass a list as an argument into a function.
+
+
+
+#? Different ways to call a function
+
+# You can call a function by using the function name followed by parentheses.
+# You can call a function multiple times.
+# You can call a function inside another function.
+# You can call a function inside a loop.
+# You can call a function inside a conditional statement.
+
+
+# You can pass arguments into a function by specifying the parameter inside the parentheses.
+# You can pass multiple arguments into a function by separating them with commas.
+# You can pass a list as an argument into a function.
+

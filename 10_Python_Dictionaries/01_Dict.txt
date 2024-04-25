@@ -1,0 +1,19 @@
+
+
+"""
+Python dictionaries are used to store data values in key:value pairs.
+# A dictionary is a collection which is unordered, changeable, and indexed.
+# In Python dictionaries are written with curly brackets, and they have keys and values.
+# Dictionaries are optimized to retrieve values when the key is known.
+# Dictionaries are used to store data values in key:value pairs.
+
+
+"""
+# USE CASES FOR DICTIONARIES
+# Use a dictionary when you have a collection of items that are unordered and indexed.
+# Use a dictionary when you have a collection of items that are changeable.
+# Use a dictionary when you have a collection of items that are indexed by keys.
+# Use a dictionary when you have a collection of items that are unique.
+# Use a dictionary when you have a collection of items that are optimized for retrieving values.
+# Use a dictionary when you have a collection of items that are optimized for searching.
+# Use a dictionary when you have a collection of items that are optimized for sorting.

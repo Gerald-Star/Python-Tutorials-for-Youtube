@@ -1,0 +1,24 @@
+
+
+
+# Python Sets
+# Python Set is an unordered collection of unique items.
+# Set is defined by values separated by a comma inside braces { }.
+# Items in a set are not ordered.
+# Set is a collection of non-repetitive elements.
+# Set is mutable, i.e., we can change the items after the set is created.
+# We can add or remove items from the set.
+# Sets are used to perform mathematical set operations like union, intersection, symmetric difference, etc.
+
+#? SET USE CASES
+# Use a set when you want to store multiple items in a single variable.
+# Use a set when you want to ensure that the collection of items is unique.
+# Use a set when you want to perform set operations like union, intersection, difference, etc.
+# Use a set when you want to remove duplicates from a list.
+# Use a set when you want to use a collection of items in a dictionary.
+# Use a set when you want to use a collection of items in a list.
+
+#* Example 1: Create a set
+# A set is a collection of items that are unordered and unindexed.
+# Sets are written with curly brackets.
+# Set items are unordered, meaning that the items have no defined order.
